@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[productlove]]></title>
         <description><![CDATA[productlove]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/productlove/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 00:00:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 08:28:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/productlove/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Great Apps Timeline | UI evolution of today's best apps]]></title>
+            <description><![CDATA[<article><h1>Great Apps Timeline | UI evolution of today's best apps</h1><p>See how the look of some of the great apps changed over time</p><img src="http://greatappstimeline.xyz/assets/img/meta_image.png"></article>]]></description>
+            <link>http://greatappstimeline.xyz/</link>
+            <guid isPermaLink="false">792b8e90-53fd-49ee-8ded-a7a02a2f2449</guid>
+            <pubDate>Mon, 27 Jun 2016 08:27:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Simon Sinek - Start With Why - TED Talk Short Edited]]></title>
-            <description><![CDATA[<article><h1>Simon Sinek - Start With Why - TED Talk Short Edited</h1><p>Here's the link to the Original Version of this amazing, inspiring and thought provoking talk by Simon Sinek: Start with why - how great leaders inspire action:TEDxPugetSound http://youtu.be/u4ZoJKF_VuA This is a Short Edited version of one of the most famous TED Talks by Simon Sinek.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Simon Sinek - Start With Why - TED Talk Short Edited</h1><p>Here's the link to the Original Version of this amazing, inspiring and thought provoking talk by Simon Sinek: Start with why - how great leaders inspire action:TEDxPugetSound http://youtu.be/u4ZoJKF_VuA This is a Short Edited version of one of the most famous TED Talks by Simon Sinek.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/333103f9f1a26a946806815e67b8e0a8/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FIPYeCltXpxw%2Fhqdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=IPYeCltXpxw</link>
             <guid isPermaLink="false">e7cae3fd-4cd6-4724-b5b3-f95e378811be</guid>
             <pubDate>Mon, 27 Jun 2016 00:00:01 GMT</pubDate>
